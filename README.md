@@ -89,17 +89,12 @@ Run with:
 -----------------------------------------------------------------------------
 ## ⚠️ Important Notes
 
-Executables must be built on the target OS in mind
-
-Windows → .exe
-
-macOS → .app
-
-Linux → ELF binary
-
-macOS may ask for permission to access folders (normal behavior).
-
-The first launch of a packaged app may be slower (PyInstaller extraction).
+-Executables must be built on the target OS in mind
+-Windows → .exe
+-macOS → .app
+-Linux → ELF binary
+-macOS may ask for permission to access folders (normal behavior).
+-The first launch of a packaged app may be slower (PyInstaller extraction).
 
 -----------------------------------------------------------------------------
 
@@ -118,15 +113,11 @@ STRUCTURE = {
 -----------------------------------------------------------------------------
 ## 📌 Future Improvements (Ideas)
 
-Multiple structure presets
-
-Import/export structure via JSON
-
-Dark/light mode
-
-Drag & drop base folder
-
-Auto-create README or .gitignore
+-Multiple structure presets
+-Import/export structure via JSON
+-Dark/light mode
+-Drag & drop base folder
+-Auto-create README or .gitignore
 
 -----------------------------------------------------------------------------
 
