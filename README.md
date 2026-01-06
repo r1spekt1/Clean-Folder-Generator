@@ -19,7 +19,7 @@ It is built using **Python** and **Tkinter** and works on **Windows, macOS, and 
 -----------------------------------------------------------------------------
 
 ## 📁 Default Folder Structure
-
+```bash
 Clean Folder/
 ├── 00 Proj
 ├── 01 Video
@@ -31,7 +31,7 @@ Clean Folder/
 ├── 03 Music
 ├── 04 SFX
 └── 05 Export
-
+```
 
 (The structure can be modified directly in the `STRUCTURE` dictionary inside the source code.)
 
