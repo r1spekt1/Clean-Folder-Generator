@@ -53,11 +53,11 @@ python3 --version
 ## ▶️ Running the Application (from source)
 🪟 Windows (.exe)
 ```bash 
-    pyinstaller --onefile --windowed clean_folder.py
+pyinstaller --onefile --windowed clean_folder.py
 ```
 Output:
 ```bash
-      dist/clean_folder.exe
+dist/clean_folder.exe
 ```
 Double-click to run.
 
